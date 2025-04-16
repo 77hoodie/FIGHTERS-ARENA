@@ -29,3 +29,6 @@ Funcionalidades:
   - Habilidade 1
   - [...]
   - Voltar
+
+  Requerimentos:
+  - Java 17 ou superior
